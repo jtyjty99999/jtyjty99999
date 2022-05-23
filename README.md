@@ -7,15 +7,12 @@
 <a href="mailto:jtyjty99999@126.com"><img src="https://img.shields.io/badge/-jtyjty99999@126.com-%23323031?style=flat&logo=gmail" alt="126mail" /></a>
 ![profile views](https://komarev.com/ghpvc/?username=jtyjty99999&style=flat)
 
-
-
 - 🔭 I’m currently working on Tencent Healthcare big data front-end team.
 - 🌱 I’m a full stack developer with experience in building websites.
 - 👯 I'm familiar with large-scale website development and front-end architecture, also experience in design and development of data products.
 - 🤔 I’m familiar with product manage , responsible for team management in both Alibaba and Tencent.
 - 💬 I’m experienced in HTML, CSS 3, React , Node.js and Data visualization.
 
- 
 **Languages and Frameworks**
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
@@ -52,4 +49,3 @@
 - [知乎](https://www.zhihu.com/people/jiang-tian-yi/posts)
  
 ![](https://github-readme-stats.vercel.app/api?username=jtyjty99999)
-
