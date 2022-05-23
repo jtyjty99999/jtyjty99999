@@ -26,7 +26,7 @@
   ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
   ![D3.js](https://img.shields.io/badge/-D3.js-gray?style=flat-square&logo=D3.js)
-  ![three](	https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
+  ![three](	https://img.shields.io/badge/ThreeJs-black?style=flat-square&logo=three.js)
 
 **Public Contributions or Maintains** 
  
