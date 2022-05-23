@@ -1,6 +1,6 @@
-### Hi there, this is Adams👋
+### Hi there, this is Adams👋 [![GitHub followers](https://img.shields.io/github/followers/jtyjty99999?label=Follow&style=social)](https://github.com/jtyjty99999)
 
-**About Me**  [![GitHub followers](https://img.shields.io/github/followers/jtyjty99999?label=Follow&style=social)](https://github.com/jtyjty99999) 
+**About Me** 
 
 [![github](https://img.shields.io/badge/-jtyjty99999-%23323031?style=flat&logo=github)](https://github.com/jtyjty99999)
 ![wechat](https://img.shields.io/badge/-jtyjty99999-%23323031?style=flat&logo=wechat)
