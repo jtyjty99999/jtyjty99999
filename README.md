@@ -30,7 +30,7 @@
 - [core team](https://github.com/orgs/eggjs/teams/core) of [eggjs](https://github.com/eggjs/egg) ![](https://img.shields.io/github/stars/eggjs/egg?style=social)
 - [bizGoblin: react mobile charts based on f2](https://github.com/alibaba/BizGoblin)  ![](https://img.shields.io/github/stars/alibaba/bizgoblin?style=social)
 - [next: react components and theme roller](https://github.com/alibaba-fusion/next)  ![](https://img.shields.io/github/stars/alibaba-fusion/next?style=social)
-- egg plugins like egg-security, egg-logrotate, egg-mysql, egg-mongoose, egg-redis, egg-graphql, egg-oss, egg-sequelize, egg-view-react
+- egg plugins like egg-security ![](https://img.shields.io/github/stars/eggjs/egg-security?style=social), egg-logrotator ![](https://img.shields.io/github/stars/eggjs/egg-logrotator?style=social), egg-mysql![](https://img.shields.io/github/stars/eggjs/egg-mysql?style=social), egg-mongoose![](https://img.shields.io/github/stars/eggjs/egg-mongoose?style=social), egg-redis![](https://img.shields.io/github/stars/eggjs/egg-redis?style=social), egg-graphql![](https://img.shields.io/github/stars/eggjs/egg-graphql?style=social), egg-oss![](https://img.shields.io/github/stars/eggjs/egg-oss?style=social), egg-sequelize![](https://img.shields.io/github/stars/eggjs/egg-sequelize?style=social), egg-view-react![](https://img.shields.io/github/stars/eggjs/egg-view-react?style=social)
 - [mobile dev knowledge](https://github.com/jtyjty99999/mobileTech) ![](https://img.shields.io/github/stars/jtyjty99999/mobileTech?style=social)
 
 **Public Share** 
