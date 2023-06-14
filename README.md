@@ -43,7 +43,9 @@
 - 2017 GIAC [Bpmn based front-end architecture and devops](https://doc.huodongjia.com/detail-6747.html)
 - 2013 NYC open meetup [New York Subway data visualization](http://www.meetup.com/NYC-Open-Data/events/137298432/)
 - 2013 webrebuild [step into data visualization](https://www.56.com/u73/v_MTAwMjEyODc4.html)
-- 2012 w3cplus YY public share [f2e auto test tools](https://speakerdeck.com/w3cplus/qian-duan-zi-dong-hua-gong-ju-tan-suo)
+- 2012 w3cplus YY public share [F2e auto test tools](https://speakerdeck.com/w3cplus/qian-duan-zi-dong-hua-gong-ju-tan-suo)
+- 2012 w3cplus YY public share [Advanced Web animation](https://speakerdeck.com/w3cplus/la-fei-er-rang-svgzai-fei-hui)
+- 2012 w3cplus YY public share [Step into RaphaelJs](https://speakerdeck.com/w3cplus/la-fei-er-rang-svgzai-fei-hui)
 
 **Translations or Writes**   
  
