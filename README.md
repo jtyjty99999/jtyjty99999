@@ -35,7 +35,10 @@
 
 **Public Share** 
 
+- 2023 GIAC [GPT X Lowcode best practise](https://giac.msup.com.cn/2023sz/course?id=16993)
 - 2022 GIAC [Logic lowcode programming best practise](https://giac.msup.com.cn/course?id=16091)
+- 2022 ZaoZaoLiao [Overview of Visual Channel Theory and Practice of Enhanced Analysis Techniques in Visualization](https://www.zaozao.run/video/c54/c54-1)
+- 2021 ZaoZaoLiao[From Interface to Logic: Reflections and Practices on Low-Code Logic Orchestration](https://www.zaozao.run/video/c49/c49-1)
 - 2018 imweb [Fragile Node.js](http://2017.imweb.io/)
 - 2017 GIAC [Bpmn based front-end architecture and devops](https://doc.huodongjia.com/detail-6747.html)
 - 2013 NYC open meetup [New York Subway data visualization](http://www.meetup.com/NYC-Open-Data/events/137298432/)
