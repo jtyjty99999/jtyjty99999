@@ -34,8 +34,8 @@
 - [mobile dev knowledge](https://github.com/jtyjty99999/mobileTech) ![](https://img.shields.io/github/stars/jtyjty99999/mobileTech?style=social)
 
 **Public Share** 
-
-- 2023 GIAC [GPT X Lowcode best practise](https://giac.msup.com.cn/2023sz/course?id=16993)
+- 2023 archSummit [GPT accelerated LowCode development](https://archsummit.infoq.cn/2023/shenzhen/presentation/5356) best presentation award
+- 2023 GIAC [GPT X Lowcode best practise](https://giac.msup.com.cn/2023sz/course?id=16993) top1 presentation award
 - 2022 ZaoZaoLiao [Overview of Visual Channel Theory and Practice of Enhanced Analysis Techniques in Visualization](https://www.zaozao.run/video/c54/c54-1)
 - 2022 ZaoZaoLiao [From Interface to Logic: Reflections and Practices on Low-Code Logic Orchestration](https://www.zaozao.run/video/c49/c49-1)
 - 2022 GIAC [Logic lowcode programming best practise](https://giac.msup.com.cn/course?id=16091)
