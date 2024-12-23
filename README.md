@@ -35,10 +35,11 @@
 
 **Public Share** 
 
+- 2024 ArchSummit [AI Transformation of Low-Code Platforms - CodeWave's Intelligent Practice](https://b.geekbang.org/mall/events/archsummit/2024/shenzhen/presentation/5907) 
 - 2024 QCON [Intelligent Development Platform: The AI-Driven Path of Traditional Low-Code](https://qcon.infoq.cn/2024/beijing/presentation/5891) 
 - 2024 LOWCODE Conf [CodeWave: Building an AI-friendly Low-Code Platform](https://mp.weixin.qq.com/s/nLDjN5luEQyDEH5mDLoaYQ) 
 - 2023 ZTUP [Build new productivity drivers of AI+lowcode](https://ztup.msup.com.cn/2023sh/course?id=17128) 
-- 2023 archSummit [GPT accelerated LowCode development](https://archsummit.infoq.cn/2023/shenzhen/presentation/5356) best presentation award
+- 2023 ArchSummit [GPT accelerated LowCode development](https://archsummit.infoq.cn/2023/shenzhen/presentation/5356) best presentation award
 - 2023 GIAC [GPT X Lowcode best practise](https://giac.msup.com.cn/2023sz/course?id=16993) top1 presentation award
 - 2022 ZaoZaoLiao [Overview of Visual Channel Theory and Practice of Enhanced Analysis Techniques in Visualization](https://www.zaozao.run/video/c54/c54-1)
 - 2022 ZaoZaoLiao [From Interface to Logic: Reflections and Practices on Low-Code Logic Orchestration](https://www.zaozao.run/video/c49/c49-1)
