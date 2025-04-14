@@ -7,7 +7,7 @@
 <a href="mailto:jtyjty99999@126.com"><img src="https://img.shields.io/badge/-jtyjty99999@126.com-%23323031?style=flat&logo=gmail" alt="126mail" /></a>
 ![profile views](https://komarev.com/ghpvc/?username=jtyjty99999&style=flat)
 
-- 🔭 I’m currently working on Tencent Healthcare big data front-end team.
+- 🔭 I’m currently working on NetEase, CodeWave low-code platform technical director. Previously worked at Tencent Healthcare big data front-end team.
 - 🌱 I’m a full stack developer with experience in building websites.
 - 👯 I'm familiar with large-scale website development and front-end architecture, also experience in design and development of data products.
 - 🤔 I’m familiar with product manage , responsible for team management in both Alibaba and Tencent.
