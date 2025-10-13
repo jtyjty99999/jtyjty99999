@@ -34,6 +34,7 @@
 - [mobile dev knowledge](https://github.com/jtyjty99999/mobileTech) ![](https://img.shields.io/github/stars/jtyjty99999/mobileTech?style=social)
 
 **Public Share** 
+- 2025 CSDI [From Workflow to Autonomous Decision-Making: Building End-to-End Enterprise-Grade Autonomous Agents](https://www.csdisummit.com/?aId=1840630&) 
 - 2025 Qcon [From Demonstrable to Deliverable - NetEase CodeWave AIGC Commercial Implementation Practice](https://qcon.infoq.cn/2025/beijing/presentation/6295) 
 - 2025 D2 [A low-code development platform deeply integrated with AI](https://d2.alibabatech.com/) 
 - 2024 ArchSummit [AI Transformation of Low-Code Platforms - CodeWave's Intelligent Practice](https://b.geekbang.org/mall/events/archsummit/2024/shenzhen/presentation/5907) 
