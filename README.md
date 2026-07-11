@@ -34,6 +34,8 @@
 - [mobile dev knowledge](https://github.com/jtyjty99999/mobileTech) ![](https://img.shields.io/github/stars/jtyjty99999/mobileTech?style=social)
 
 **Public Share** 
+- 2026 GOPS [From Vibe Coding to Spec Driven：CodeWave SDD Intelligent Software Factory: Reflections and Practice](https://www.bagevent.com/event/gopsbeijing) 
+- 2026 Qcon [From Vibe Coding to Spec Driven：CodeWave SDD Intelligent Software Factory: Reflections and Practice](https://qcon.infoq.cn/2026/beijing/presentation/6938) 
 - 2025 CSDI [From Workflow to Autonomous Decision-Making: Building End-to-End Enterprise-Grade Autonomous Agents](https://www.csdisummit.com/?aId=1840630&) 
 - 2025 Qcon [From Demonstrable to Deliverable - NetEase CodeWave AIGC Commercial Implementation Practice](https://qcon.infoq.cn/2025/beijing/presentation/6295) 
 - 2025 D2 [A low-code development platform deeply integrated with AI](https://d2.alibabatech.com/) 
