@@ -34,7 +34,7 @@
 - [mobile dev knowledge](https://github.com/jtyjty99999/mobileTech) ![](https://img.shields.io/github/stars/jtyjty99999/mobileTech?style=social)
 
 **Public Share** 
-- 2026 GOPS [From Vibe Coding to Spec Driven：CodeWave SDD Intelligent Software Factory: Reflections and Practice](https://www.qecon.com.cn/Spec-Driven_Development-SH2026) 
+- 2026 QECON [From Vibe Coding to Spec Driven：CodeWave SDD Intelligent Software Factory: Reflections and Practice](https://www.qecon.com.cn/Spec-Driven_Development-SH2026) 
 - 2026 GOPS [From Vibe Coding to Spec Driven：CodeWave SDD Intelligent Software Factory: Reflections and Practice](https://www.bagevent.com/event/gopsbeijing) 
 - 2026 Qcon [From Vibe Coding to Spec Driven：CodeWave SDD Intelligent Software Factory: Reflections and Practice](https://qcon.infoq.cn/2026/beijing/presentation/6938) 
 - 2025 CSDI [From Workflow to Autonomous Decision-Making: Building End-to-End Enterprise-Grade Autonomous Agents](https://www.csdisummit.com/?aId=1840630&) 
